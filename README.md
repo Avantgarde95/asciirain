@@ -2,7 +2,7 @@
 
 Rain of the characters
 
-![App](https://github.com/Avantgarde95/asciirain/blob/master/Image/Screenshot.png)
+![App](https://github.com/Avantgarde95/asciirain/blob/master/image/Screenshot.png)
 
 ### How to run
 - Run a simple server and open the web browser.
