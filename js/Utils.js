@@ -9,7 +9,7 @@ function getElement(className) {
 }
 
 function chooseRandomInteger(min, limit) {
-    return Math.random() * (limit - min) + min;
+    return Math.floor(Math.random() * (limit - min)) + min;
 }
 
 function loadImage(src, onLoad) {
